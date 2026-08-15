@@ -7,6 +7,9 @@
 - 🚀 Goal: Become a Software Engineer in a product-based company
 
 ## 🛠️ Skills
+
+![Java Intermediate](https://img.shields.io/badge/java%2Cintermediate%2Cred?style=flat-square)
+
 - C
 - C++
 - Java
