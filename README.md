@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills
 
-![Java Intermediate](https://img.shields.io/badge/java%2Cintermediate%2Cred?style=flat-square)
+![Java](https://img.shields.io/badge/java%2Cintermediate%2Cred?style=flat-square)
 ![C](https://img.shields.io/badge/C-Beginner-blue?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-Learning-yellow?style=flat-square)
