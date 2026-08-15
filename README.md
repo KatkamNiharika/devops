@@ -8,10 +8,19 @@
 
 ## 🛠️ Skills
 
-![Java](https://img.shields.io/badge/Java-Intermediate-red?style=flat-square)
-![C](https://img.shields.io/badge/C-Beginner-blue?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?style=flat-square)
-![Git](https://img.shields.io/badge/Git-Learning-yellow?style=flat-square)
+![C](https://img.shields.io/badge/C-Beginner-blue?style=flat-square&logo=c&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?style=flat-square&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue?style=flat-square&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=flat-square&logo=javascript&logoColor=black)
+
+![Node.js](https://img.shields.io/badge/Node.js-Learning-green?style=flat-square&logo=node.js&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-Learning-orange?style=flat-square&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-Active-black?style=flat-square&logo=github&logoColor=white)
 
 - C
 - C++
